@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![Oleksander Palian profile views](https://u8views.com/api/v1/github/profiles/488760/views/day-week-month-total-count.svg)](https://u8views.com/github/alexpalyan)
+
 <!--
 **alexpalyan/alexpalyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
